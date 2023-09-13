@@ -1,4 +1,4 @@
-# Loruki-Website
+# Loruki-WebApp
 Loruki is a cloud hosting platform that allows users to deploy their websites and web applications on the cloud. It is a fictional company that I created to practice my HTML and CSS skills.
 
 ## Table of Contents
